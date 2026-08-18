@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img width="300" height="300" alt="About me" src="https://github.com/user-attachments/assets/075ce75c-d15e-458c-821d-0b143b58a550" /> <img width="300" height="300" alt="About me" src="https://github.com/user-attachments/assets/4d08d145-379b-4113-a1e9-d8a3a6633b8d" />
+<img width="400" height="300" alt="About me" src="https://github.com/user-attachments/assets/075ce75c-d15e-458c-821d-0b143b58a550" /> <img width="300" height="300" alt="About me" src="https://github.com/user-attachments/assets/4d08d145-379b-4113-a1e9-d8a3a6633b8d" />
 
 **Indie game & web developer, 3D artist, and beginner sound designer.**
 
@@ -12,22 +12,23 @@
 
 ### Languages
 
-- Python
-- GDScript
-- SQL
-- JavaScript
-- C++ *(basic)*
+ Python
+ GDScript
+ SQL
+ JavaScript
+ C++ *(basic)*                                    <img width="736" height="976" alt="изображение" src="https://github.com/user-attachments/assets/d54fcdac-6c46-4305-b2a4-f2798b822534" />
+
 
 ### Game Engines
 
-- Unreal Engine 5
-- Godot 4
+ Unreal Engine 5
+ Godot 4
 
 ### Tools
 
-- VS Code
-- JetBrains IDEs
-- Blender
-- SQLite
+ VS Code
+ JetBrains IDEs
+ Blender
+ SQLite
 
 
