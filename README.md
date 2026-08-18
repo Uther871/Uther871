@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img width="400" height="300" alt="About me" src="https://github.com/user-attachments/assets/075ce75c-d15e-458c-821d-0b143b58a550" /> <img width="300" height="300" alt="About me" src="https://github.com/user-attachments/assets/4d08d145-379b-4113-a1e9-d8a3a6633b8d" />
+<img width="300" height="300" alt="About me" src="https://github.com/user-attachments/assets/075ce75c-d15e-458c-821d-0b143b58a550" /> <img width="500" height="300" alt="About me" src="https://github.com/user-attachments/assets/4d08d145-379b-4113-a1e9-d8a3a6633b8d" />
 
 **Indie game & web developer, 3D artist, and beginner sound designer.**
 
