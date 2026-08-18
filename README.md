@@ -5,10 +5,8 @@
 
 Indie game & web developer, 3D artist and beginner sound designer.
 
-## 🛠️ Core Skills
-<img width="900" height="350" alt="Новый проект" src="https://github.com/user-attachments/assets/830b4b24-9f9b-41d4-bfc7-02c33f22bff7" />                                       
-
-
+##  Core Skills
+                                     
 - Python
 - GDScript
 - SQL
