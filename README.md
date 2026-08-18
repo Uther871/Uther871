@@ -16,7 +16,7 @@
  GDScript
  SQL
  JavaScript
- C++ *(basic)*                                    <img width="736" height="976" alt="изображение" src="https://github.com/user-attachments/assets/d54fcdac-6c46-4305-b2a4-f2798b822534" />
+ C++ *(basic)*                                    <img width="130" height="400" alt="изображение" src="https://github.com/user-attachments/assets/d54fcdac-6c46-4305-b2a4-f2798b822534" />
 
 
 ### Game Engines
