@@ -6,7 +6,7 @@
 
 **Indie game & web developer, 3D artist, and beginner sound designer.**
 
-<img width="625" height="275" alt="Skills" src="https://github.com/user-attachments/assets/b067d961-bec0-41f4-ab0f-e166fab65c7d" />
+<img width="700" height="275" alt="Skills" src="https://github.com/user-attachments/assets/b067d961-bec0-41f4-ab0f-e166fab65c7d" />
 
 ## Core Skills
 
