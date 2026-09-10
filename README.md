@@ -1,5 +1,10 @@
 # GitHub Profile README
 
+
+<img width="736" height="552" alt="изображение" src="https://github.com/user-attachments/assets/a023418c-2a15-4df5-a9f9-5b51b76dd686" />
+
+
+
 ## About Me
 
 <img width="300" height="300" alt="About me" src="https://github.com/user-attachments/assets/075ce75c-d15e-458c-821d-0b143b58a550" /> <img width="420" height="300" alt="About me" src="https://github.com/user-attachments/assets/4d08d145-379b-4113-a1e9-d8a3a6633b8d" />
