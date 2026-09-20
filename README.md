@@ -1,6 +1,3 @@
-# GitHub Profile README
-
-
 <img width="736" height="552" alt="изображение" src="https://github.com/user-attachments/assets/a023418c-2a15-4df5-a9f9-5b51b76dd686" />
 
 
