@@ -1,36 +1,3 @@
-<img width="736" height="552" alt="изображение" src="https://github.com/user-attachments/assets/a023418c-2a15-4df5-a9f9-5b51b76dd686" />
-
-
-
-## About Me
-
-<img width="300" height="300" alt="About me" src="https://github.com/user-attachments/assets/075ce75c-d15e-458c-821d-0b143b58a550" /> <img width="420" height="300" alt="About me" src="https://github.com/user-attachments/assets/4d08d145-379b-4113-a1e9-d8a3a6633b8d" />
-
-**Indie game & web developer, 3D artist, and beginner sound designer.**
-
-<img width="650" height="350" alt="Skills" src="https://github.com/user-attachments/assets/b067d961-bec0-41f4-ab0f-e166fab65c7d" />
-
-## Core Skills
-
-### Languages
-
- Python
- GDScript
- SQL
- JavaScript
- C++ *(basic)*                                    
-
-### Game Engines
-
- Unreal Engine 5
- Godot 4
- Unity 
-
-### Tools
-
- VS Code
- JetBrains IDEs
- Blender
- SQLite
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75590&center=true&vCenter=true&width=500&lines=Indie+game+%26+web+developer+%E2%9C%A7;3D+artist+%E2%98%86;Beginner+sound+designer+%E2%9D%A5" alt="Typing SVG" />
+</p>
