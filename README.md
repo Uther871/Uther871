@@ -17,7 +17,8 @@
   <img width="380" height="60" alt="Core Skills" src="https://github.com/user-attachments/assets/9b5b5bae-d3fc-4fcc-8d49-9cf53e9ebff4" />
 </p>
 
-
+<br/>
+<br/>
 
 <p align="center">
   <img width="260" height="46" alt="Languages" src="https://github.com/user-attachments/assets/b369e928-d274-486a-9a31-b09d26271d0d" />
