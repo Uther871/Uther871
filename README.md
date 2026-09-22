@@ -1,11 +1,19 @@
 ## About Me
-<img width="1080" height="1080" alt="Новый проект" src="https://github.com/user-attachments/assets/09a079bd-7cbc-48c2-9ae3-b15ae8778af1" />
+
+<img width="100%" alt="Header" src="https://github.com/user-attachments/assets/09a079bd-7cbc-48c2-9ae3-b15ae8778af1" />
+
+<br clear="both"/>
+<br/>
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1500&color=F75590&vCenter=true&width=800&lines=Indie+game+%26+web+developer+%E2%9C%A7;3D+artist+%E2%98%86;and+beginner+sound+designer+%E2%9C%A9" alt="Typing SVG" />
 <br clear="right"/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=F75590&center=true&vCenter=true&width=800&lines=Core+Skills+%E2%9C%A7&repeat=false" alt="Typing SVG" />
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=F75590&center=true&vCenter=true&width=800&lines=Core+Skills+%E2%9C%A7&repeat=false" alt="Typing SVG" />
+</p>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
