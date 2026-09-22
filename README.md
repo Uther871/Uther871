@@ -13,9 +13,13 @@
 
 ---
 
-<h2 align="center"><font color="#F75590">Core Skills</font></h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=99999999&color=F75590&center=true&vCenter=true&width=800&lines=Core+Skills&repeat=false" alt="Core Skills" />
+</p>
 
-<h3 align="center"><font color="#F75590">Languages</font></h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=99999999&color=F75590&center=true&vCenter=true&width=300&lines=Languages&repeat=false" alt="Languages" />
+</p>
 
 ![Python](https://img.shields.io/badge/Python-6C3483?style=for-the-badge&logo=python&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-6C3483?style=for-the-badge&logo=godotengine&logoColor=white)
@@ -23,13 +27,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-6C3483?style=for-the-badge&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6C3483?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<h3 align="center"><font color="#F75590">Game Engines</font></h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=99999999&color=F75590&center=true&vCenter=true&width=300&lines=Game+Engines&repeat=false" alt="Game Engines" />
+</p>
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-1B4F72?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-1B4F72?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-1B4F72?style=for-the-badge&logo=unity&logoColor=white)
 
-<h3 align="center"><font color="#F75590">Tools</font></h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=99999999&color=F75590&center=true&vCenter=true&width=300&lines=Tools&repeat=false" alt="Tools" />
+</p>
 
 ![VS Code](https://img.shields.io/badge/VS_Code-922B21?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-922B21?style=for-the-badge&logo=jetbrains&logoColor=white)
