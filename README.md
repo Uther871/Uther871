@@ -1,5 +1,5 @@
 <p align="center">
-<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='300'%20height='50'%3E%3Ctext%20x='50%25'%20y='50%25'%20dominant-baseline='middle'%20text-anchor='middle'%20font-family='Fira Code, monospace'%20font-weight='bold'%20font-size='32'%20fill='%23F75590'%3EAbout%20Me%3C/text%3E%3C/svg%3E" alt="About Me" />
+  <img width="320" height="60" alt="About Me" src="https://github.com/user-attachments/assets/698c74b9-b454-47c6-affa-991cb67a4862" />
 </p>
 
 <img width="100%" alt="Header" src="https://github.com/user-attachments/assets/09a079bd-7cbc-48c2-9ae3-b15ae8778af1" />
@@ -14,11 +14,11 @@
 ---
 
 <p align="center">
-<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='300'%20height='50'%3E%3Ctext%20x='50%25'%20y='50%25'%20dominant-baseline='middle'%20text-anchor='middle'%20font-family='Fira Code, monospace'%20font-weight='bold'%20font-size='32'%20fill='%23F75590'%3ECore%20Skills%3C/text%3E%3C/svg%3E" alt="Core Skills" />
+  <img width="380" height="60" alt="Core Skills" src="https://github.com/user-attachments/assets/9b5b5bae-d3fc-4fcc-8d49-9cf53e9ebff4" />
 </p>
 
 <p align="center">
-<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='200'%20height='40'%3E%3Ctext%20x='50%25'%20y='50%25'%20dominant-baseline='middle'%20text-anchor='middle'%20font-family='Fira Code, monospace'%20font-weight='bold'%20font-size='24'%20fill='%23F75590'%3ELanguages%3C/text%3E%3C/svg%3E" alt="Languages" />
+  <img width="260" height="46" alt="Languages" src="https://github.com/user-attachments/assets/b369e928-d274-486a-9a31-b09d26271d0d" />
 </p>
 
 ![Python](https://img.shields.io/badge/Python-6C3483?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +28,7 @@
 ![C++](https://img.shields.io/badge/C++-6C3483?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <p align="center">
-<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='250'%20height='40'%3E%3Ctext%20x='50%25'%20y='50%25'%20dominant-baseline='middle'%20text-anchor='middle'%20font-family='Fira Code, monospace'%20font-weight='bold'%20font-size='24'%20fill='%23F75590'%3EGame%20Engines%3C/text%3E%3C/svg%3E" alt="Game Engines" />
+  <img width="320" height="46" alt="Game Engines" src="https://github.com/user-attachments/assets/34a74bde-b54b-4115-96b0-e3052f399af7" />
 </p>
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-1B4F72?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -36,7 +36,7 @@
 ![Unity](https://img.shields.io/badge/Unity-1B4F72?style=for-the-badge&logo=unity&logoColor=white)
 
 <p align="center">
-<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='150'%20height='40'%3E%3Ctext%20x='50%25'%20y='50%25'%20dominant-baseline='middle'%20text-anchor='middle'%20font-family='Fira Code, monospace'%20font-weight='bold'%20font-size='24'%20fill='%23F75590'%3ETools%3C/text%3E%3C/svg%3E" alt="Tools" />
+  <img width="180" height="46" alt="Tools" src="https://github.com/user-attachments/assets/f0b37a01-59d7-45ff-b857-1caf05a9d2fc" />
 </p>
 
 ![VS Code](https://img.shields.io/badge/VS_Code-922B21?style=for-the-badge&logo=visualstudiocode&logoColor=white)
