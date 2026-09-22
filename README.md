@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75590&center=true&vCenter=true&width=400&lines=About+Me&repeat=false" alt="About Me" />
+  <img src="https://img.shields.io/badge/About%20Me-F75590?style=for-the-badge" alt="About Me" />
 </p>
 
 <img width="100%" alt="Header" src="https://github.com/user-attachments/assets/09a079bd-7cbc-48c2-9ae3-b15ae8778af1" />
@@ -14,11 +14,11 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=99999999&color=F75590&center=true&vCenter=true&width=800&lines=Core+Skills&repeat=false" alt="Core Skills" />
+  <img src="https://img.shields.io/badge/Core%20Skills-F75590?style=for-the-badge" alt="Core Skills" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=99999999&color=F75590&center=true&vCenter=true&width=300&lines=Languages&repeat=false" alt="Languages" />
+  <img src="https://img.shields.io/badge/Languages-F75590?style=for-the-badge" alt="Languages" />
 </p>
 
 ![Python](https://img.shields.io/badge/Python-6C3483?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +28,7 @@
 ![C++](https://img.shields.io/badge/C++-6C3483?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=99999999&color=F75590&center=true&vCenter=true&width=300&lines=Game+Engines&repeat=false" alt="Game Engines" />
+  <img src="https://img.shields.io/badge/Game%20Engines-F75590?style=for-the-badge" alt="Game Engines" />
 </p>
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-1B4F72?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -36,7 +36,7 @@
 ![Unity](https://img.shields.io/badge/Unity-1B4F72?style=for-the-badge&logo=unity&logoColor=white)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=99999999&color=F75590&center=true&vCenter=true&width=300&lines=Tools&repeat=false" alt="Tools" />
+  <img src="https://img.shields.io/badge/Tools-F75590?style=for-the-badge" alt="Tools" />
 </p>
 
 ![VS Code](https://img.shields.io/badge/VS_Code-922B21?style=for-the-badge&logo=visualstudiocode&logoColor=white)
