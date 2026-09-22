@@ -6,6 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=F75590&center=true&vCenter=true&width=800&lines=Core+Skills+%E2%9C%A7&repeat=false" alt="Typing SVG" />
 
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
