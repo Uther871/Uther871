@@ -28,7 +28,7 @@
 ![GDScript](https://img.shields.io/badge/GDScript-6C3483?style=for-the-badge&logo=godotengine&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-6C3483?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6C3483?style=for-the-badge&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-6C3483?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6C3483?style=for-the-badge&logo=csharp&logoColor=white)
 
 <p align="center">
   <img width="320" height="46" alt="Game Engines" src="https://github.com/user-attachments/assets/34a74bde-b54b-4115-96b0-e3052f399af7" />
