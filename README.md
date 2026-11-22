@@ -5,7 +5,7 @@
 <br clear="both"/>
 <br/>
 
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1500&color=8B9BB4&vCenter=true&width=800&lines=Indie+game+%26+web+developer;3D+artist;and+beginner+sound+designer" alt="Typing SVG" />
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1500&color=8B9BB4&vCenter=true&width=800&lines=Indie+game+%26+web+developer;3D+artist" alt="Typing SVG" />
 <br clear="right"/>
 <br/>
 
