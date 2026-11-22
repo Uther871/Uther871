@@ -2,6 +2,10 @@
   <img width="320" height="60" alt="About Me" src="https://github.com/user-attachments/assets/698c74b9-b454-47c6-affa-991cb67a4862" />
 </p>
 
+<p align="center">
+  <img width="420" alt="Photo" src="https://github.com/user-attachments/assets/14e94371-6f9f-4d4e-8370-eef3ea767693" />
+</p>
+
 <br clear="both"/>
 <br/>
 
